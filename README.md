@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and coding 
 - 🌱 I’m currently learning in freecodecamp
 - 💞️ I’m looking to collaborate  with any body 
-- 📫 How to reach me, you can reach on facebook and gmail
+- 📫 How to reach me, you can reach me on facebook and gmail
 
 <!---
 OffixialSarki/OffixialSarki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
